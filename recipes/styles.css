@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.home {
+    background-color: rgb(152, 254, 241);
+    max-width: 60px;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    color: black;
+    border-radius: 25px;
+}
+
+.page-title {
+    border: 3px solid black;
+    margin: 15px auto 15px auto;
+    text-align: center;
+    max-width: 500px;
+}
+
+.food-image {
+    text-align: center;
+    margin: 10px;
+}
+
+.desc-ing-steps {
+    display: block;
+    margin: 0 30% 0 30%;
+    padding: 3px;
+    min-width: 800px;
+}
+
+.headings {
+    text-align: left;
+    padding: 3px;
+    text-decoration: underline;
+}
+
+p,
+ul,
+ol {
+    line-height: 1.5;
+}
