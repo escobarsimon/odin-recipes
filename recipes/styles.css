@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+
 }
 
 .home {
@@ -9,6 +10,8 @@
     padding: 5px 10px 5px 10px;
     color: black;
     border-radius: 25px;
+    font-style: oblique;
+    font-weight: bold;
 }
 
 .page-title {
@@ -16,6 +19,8 @@
     margin: 15px auto 15px auto;
     text-align: center;
     max-width: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
 }
 
 .food-image {
@@ -28,6 +33,8 @@
     margin: 0 30% 0 30%;
     padding: 3px;
     min-width: 800px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .headings {
