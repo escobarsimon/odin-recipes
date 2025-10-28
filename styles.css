@@ -18,6 +18,8 @@ body {
     border-radius: 50px;
 }
 
+/*  
+
 .list {
     text-align: center;
     margin: 10px auto;
@@ -37,14 +39,16 @@ body {
 
 .list a {
     color: white;
-}
+} 
+
+*/
 
 nav {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 5px;
-    margin: 5px;
+    margin: 20px;
     gap: 25px;
 }
 
